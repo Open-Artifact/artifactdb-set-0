@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "cardName": "Ancient Tower",
+      "cardId": 1000,
+      "cardType": "Stronghold"
+    },
+    {
+      "cardName": "Defense Tower",
+      "cardId": 1001,
+      "cardType": "Stronghold"
+    },
+    {
+      "cardName": "Ancient Rubble",
+      "cardId": 1007,
+      "cardType": "Stronghold"
+    },
+    {
+      "cardName": "Left Path",
+      "cardId": 1002,
+      "cardType": "Pathing"
+    },
+    {
+      "cardName": "Forward Path",
+      "cardId": 1003,
+      "cardType": "Pathing"
+    },
+    {
+      "cardName": "Right Path",
+      "cardId": 1004,
+      "cardType": "Pathing"
+    },
+    {
+      "cardName": "Forward Path 2",
+      "cardId": 1005,
+      "cardType": "Pathing"
+    },
+    {
+      "cardName": "Melee Creep",
+      "cardId": 1006,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Zombie",
+      "cardId": 1009,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Traveler's Cloak",
+      "cardId": 3000,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Leather Armor",
+      "cardId": 3001,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Short Sword",
+      "cardId": 3002,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Healing Salve",
+      "cardId": 3003,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Fountain Flask",
+      "cardId": 3004,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Potion of Knowledge",
+      "cardId": 3005,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Town Portal Scroll",
+      "cardId": 3006,
+      "cardType": "Item"
+    },
+    {
+      "cardName": "Fahrvhan the Dreamer",
+      "cardId": 4000,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Pack Leadership",
+      "cardId": 4001,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "Prowler Vanguard",
+      "cardId": 4002,
+      "cardType": "Creep"
+    },
+    {
+      "cardName": "Keefe the Bold",
+      "cardId": 4003,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Fighting Instinct",
+      "cardId": 4004,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "Debbi the Cunning",
+      "cardId": 4005,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Work the Knife",
+      "cardId": 4006,
+      "cardType": "Passive Ability"
+    },
+    {
+      "cardName": "No Accident",
+      "cardId": 4007,
+      "cardType": "Spell"
+    },
+    {
+      "cardName": "J'Muy the Wise",
+      "cardId": 4008,
+      "cardType": "Hero"
+    },
+    {
+      "cardName": "Wisdom of the Elders",
+      "cardId": 4009,
+      "cardType": "Ability"
+    },
+    {
+      "cardName": "Battlefield Control",
+      "cardId": 4010,
+      "cardType": "Spell"
+    }
+  ]
+}
